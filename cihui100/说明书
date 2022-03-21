@@ -1,0 +1,15 @@
+说明书：可以补充，不要删除
+
+
+configs=配置文件
+
+Key = 封装的方法
+
+models = 封装读取xlsx的方法 非必要不需要改动
+
+params = 取models中的数据，（测试用例需要导入）
+
+test_case = 测试用例.py
+
+test_xlsx = xlsx的存放路径（请把名称统一）
+
